@@ -1,3 +1,5 @@
 # senai-versoes-colaboracoes
-## Primeiro Commit
-Teste
+
+read de exemplo
+
+lembrei do comando: git status
